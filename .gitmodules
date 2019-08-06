@@ -4,3 +4,6 @@
 [submodule "packages/nast-util-from-notionapi"]
 	path = packages/nast-util-from-notionapi
 	url = git@github.com:dragonman225/nast-util-from-notionapi.git
+[submodule "packages/nast-util-to-html"]
+	path = packages/nast-util-to-html
+	url = https://github.com/dragonman225/nast-util-to-html.git
