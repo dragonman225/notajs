@@ -1,0 +1,3 @@
+[submodule "packages/types"]
+	path = packages/types
+	url = https://github.com/dragonman225/notajs-types.git
