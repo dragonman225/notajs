@@ -1,3 +1,6 @@
 [submodule "packages/types"]
 	path = packages/types
 	url = ssh://git@github.com/dragonman225/notajs-types.git
+[submodule "packages/nast-util-from-notionapi"]
+	path = packages/nast-util-from-notionapi
+	url = git@github.com:dragonman225/nast-util-from-notionapi.git
