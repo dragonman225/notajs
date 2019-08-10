@@ -5,19 +5,13 @@
   "tasks": [
     {
       "type": "npm",
-      "script": "dev:build-webpack",
+      "script": "build:dev_tsc",
       "path": "packages/nast-util-to-html/",
       "problemMatcher": []
     },
     {
       "type": "npm",
       "script": "dev:build-webpack",
-      "path": "packages/nast-util-from-notionapi/",
-      "problemMatcher": []
-    },
-    {
-      "type": "npm",
-      "script": "dev:build-tsc",
       "path": "packages/nast-util-from-notionapi/",
       "problemMatcher": []
     }
