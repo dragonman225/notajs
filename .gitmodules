@@ -7,3 +7,6 @@
 [submodule "packages/nast-util-to-html"]
 	path = packages/nast-util-to-html
 	url = ssh://git@github.com/dragonman225/nast-util-to-html.git
+[submodule "packages/nast-util-from-oast"]
+	path = packages/nast-util-from-oast
+	url = https://github.com/dragonman225/nast-util-from-oast.git
